@@ -2,4 +2,12 @@
 counselling project
 # counselling
 
-That`s the backend for the project.
+# That`s the full-stack application for a counselling project.
+
+# Teach stack
+Vue.js
+Python
+Django
+Django REST framework
+JWT Auth
+Postgressql
